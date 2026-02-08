@@ -30,24 +30,24 @@
 ║                                CORE MODULES                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  🤖 ARTIFICIAL INTELLIGENCE                                                  ║
+║     ARTIFICIAL INTELLIGENCE                                                  ║
 ║     └── Large Language Models (LLMs)                                         ║
 ║     └── Natural Language Processing                                          ║
 ║     └── Retrieval-Augmented Generation                                       ║
 ║     └── Fine-tuning & Model Optimization                                     ║
 ║     └── Conversational AI & Agentic AI                                       ║
 ║                                                                              ║
-║  ⚙️  PROGRAMMING ARSENAL                                                    ║
+║       PROGRAMMING ARSENAL                                                    ║
 ║     └── Python | PyTorch | TensorFlow                                        ║
 ║     └── Django | FastAPI | Flask                                             ║
 ║     └── Streamlit | Gradio | Selenium                                        ║
 ║                                                                              ║
-║  ☁️  DEPLOYMENT & DEVOPS                                                    ║
+║       DEPLOYMENT & DEVOPS                                                    ║
 ║     └── Docker | AWS | GCP | Azure                                           ║
 ║     └── GitHub Actions | CI/CD Pipelines                                     ║
 ║     └── PostgreSQL | MongoDB | Redis                                         ║
 ║                                                                              ║
-║  📊 DATA & ANALYTICS                                                        ║
+║      DATA & ANALYTICS                                                        ║
 ║     └── Tableau | Power BI                                                   ║
 ║     └── Computer Vision | YOLO | OpenCV                                      ║
 ║     └── Vector Databases | FAISS | Qdrant                                    ║
@@ -75,30 +75,19 @@
 ```
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                              QUEST ACHIEVEMENTS                               ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                               ║
-║  🏆 Fall Armyworm Detection (PyCon Somalia 2025)                             ║
-║     └── AUC > 0.92 | Mobile-edge deployment for African farmers               ║            
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-```
 ┌─ KNOWLEDGE BASE ──────────────────────────────────────────────────────────────┐
 │                                                                               │
-│  📚 PUBLICATIONS & ARTICLES                                                   │
+│     PUBLICATIONS & ARTICLES                                                   │
 │      └── "How RAG is Transforming Chatbot Development" - Medium (Apr 2025)    │
 │      └── "Implementing Prolog in Python" - Medium (Jun 2025)                  │
 │                                                                               │
-│  🎓 CERTIFICATIONS                                                           │
+│      CERTIFICATIONS                                                           │
 │      └── Python for Data Science, AI & Development - IBM/Coursera             │
 │      └── AWS Cloud Technology - DataCamp                                      │
 │      └── Working with Llama 3 - DataCamp                                      │
 │      └── Data Analytics & Business Intelligence - DigiSkills                  │
 │                                                                               │
-│  🎯 EDUCATION                                                                │
+│      EDUCATION                                                                │
 │      └── Bachelor of Science in Software Engineering                          │
 │      └── Comsats University Islamabad | Wah Campus                            │
 │                                                                               │
@@ -109,11 +98,7 @@
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                              CONNECTION PORTS                                 ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                               ║
-║  📧 Email:     alyhassanshahid@gmail.com                                     ║
-║  🔗 LinkedIn:  linkedin.com/in/alihassanshahid17                             ║
-║  🏆 LeetCode:  leetcode.com/u/AliHassanShahid                                ║
-║                                                                               ║
+║      Email:     alyhassanshahid@gmail.com                                     ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -124,7 +109,6 @@
 │     developing production-grade AI systems. Specialized in LLM fine-tuning,     │
 │     RAG, and multilingual conversational AI. Demonstrated success in            │
 │     automating complex workflows, achieving up to 80% efficiency gains."        │
-│                                                                                 │
 │                                                            - Ali Hassan Shahid  │
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -138,8 +122,6 @@
 ║       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║   ║
 ║       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗       ██║   ╚██████╔╝╚██████╔╝   ║
 ║       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝    ║
-║                                                                                 ║
 ║              FOR STOPPING BY AND CHECKING OUT MY AI LABORATORY!                 ║
-║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 ```
