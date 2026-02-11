@@ -15,13 +15,11 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                              SYSTEM INFORMATION                             │
-├─────────────────────────────────────────────────────────────────────────────┤
 │ LOCATION:     Islamabad, Pakistan                                           │
+│ Email:        alyhassanshahid@gmail.com                                     │
 │ STATUS:       Online - Building AI integrated systems                       │
 │ SPECIALITY:   AI Powered Mobile Apps (IOS, Android), Chatbots integration   │
 │               Finetuning LLMs, Full Stack AI based Web Development          │
-│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -71,13 +69,9 @@
 │           └── Adopted by 2,500+ HR professionals                              │
 │           └── 50% reduction in release cycles via CI/CD                       │
 │                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌─ KNOWLEDGE BASE ──────────────────────────────────────────────────────────────┐
+│─ KNOWLEDGE BASE ──────────────────────────────────────────────────────────────│
 │                                                                               │
-│     PUBLICATIONS & ARTICLES                                                   │
+│      ARTICLES                                                                 │
 │      └── "How RAG is Transforming Chatbot Development" - Medium (Apr 2025)    │
 │      └── "Implementing Prolog in Python" - Medium (Jun 2025)                  │
 │                                                                               │
@@ -92,14 +86,6 @@
 │      └── Comsats University Islamabad | Wah Campus                            │
 │                                                                               │
 └───────────────────────────────────────────────────────────────────────────────┘
-```
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                              CONNECTION PORTS                                 ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║      Email:     alyhassanshahid@gmail.com                                     ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ```
