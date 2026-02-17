@@ -1,5 +1,5 @@
 # 💻 [Ali Hassan Shahid] 
-> **AI ENGINEER | [cite_start]MLOPS & LLM SPECIALIST** 
+> **AI ENGINEER | MLOPS & LLM SPECIALIST** 
 
 ---
 
