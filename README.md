@@ -4,7 +4,7 @@
 ---
 
 ### 🟢 𝚂𝚢𝚜𝚝𝚎𝚖.𝚒𝚗𝚏𝚘()
-* **Current Role:** AI Engineer at **Influx AI**
+* **Current Role:** AI Engineer at **Devryze**
 * **Location:** Pakistan 
 * **Education:** BS Software Engineering @ COMSATS (2022-2026)
 * **Focus:** Developing end-to-end AI solutions and agentic workflows
