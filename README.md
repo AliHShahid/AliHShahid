@@ -1,4 +1,4 @@
-# [Ali Hassan Shahid] 
+# Ali Hassan Shahid
 > **AI ENGINEER | MLOPS & LLM** 
 
 ### I𝚗𝚏𝚘()
