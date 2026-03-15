@@ -4,7 +4,7 @@
 
 ### 𝚂𝚝𝚊𝚌𝚔
 ```python
-# Core Competencies [cite: 9]
+# Core Competencies
 languages = ["Python", "JavaScript", "Dart", "HTML", "TailwindCSS"] 
 ai_ml     = ["LLMs", "RAG", "LangChain", "PEFT", "PyTorch"]
 frameworks = ["FastAPI", "Django", "Flutter"]
