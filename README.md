@@ -1,6 +1,6 @@
 # Ali Hassan Shahid
 > **AI ENGINEER | MLOPS & LLM** 
-* **Current Role:** AI Engineer at **Devryze**
+> **Current Role:** AI Engineer at **Devryze**
 
 ### 𝚂𝚝𝚊𝚌𝚔
 ```python
