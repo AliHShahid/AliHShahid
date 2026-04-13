@@ -7,6 +7,6 @@
 ```python
 # Core Competencies
 languages = ["Python", "JavaScript", "Dart", "HTML", "CSS"] 
-ai_ml     = ["LLMs", "RAG", "LangChain", "PEFT", "PyTorch"]
+ai_ml     = ["LLMs", "LangGraph", "LangChain", "PEFT", "PyTorch"]
 frameworks = ["FastAPI", "Django", "Flutter"]
-cloud_ops  = ["Docker", "Kubernetes", "AWS", "GCP", "Modal"]
+cloud_ops  = ["Docker", "Kubernetes", "AWS", "Hugging Face", "Modal"]
