@@ -1,12 +1,65 @@
 # Ali Hassan Shahid
-> **AI ENGINEER**
 
-> **Current Role:** AI Engineer at **Devryze**
+### AI Engineer • LLMs • RAG • MLOps
 
-### 𝚂𝚝𝚊𝚌𝚔
-```python
-# Core Competencies
-languages = ["Python", "JavaScript", "Dart", "HTML", "CSS"] 
-ai_ml     = ["LLMs", "LangGraph", "LangChain", "PEFT", "PyTorch"]
-frameworks = ["FastAPI", "Django", "Flutter"]
-cloud_ops  = ["Docker", "Kubernetes", "AWS", "Hugging Face", "Modal"]
+---
+
+Building **real-world AI systems** — from conversational agents to scalable ML pipelines.
+
+---
+
+## 🧠 Focus
+
+* Agentic AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* Speech AI (Whisper, Audio Processing)
+* MLOps & Production Systems
+
+---
+
+## ⚙️ Stack
+
+**Languages**
+Python • JavaScript • Dart
+
+**AI/ML**
+LLMs • LangChain • Transformers • PyTorch • TensorFlow
+
+**Backend & Apps**
+FastAPI • Django • Flask • Streamlit • Flutter
+
+**Data & DB**
+Pandas • NumPy • PostgreSQL • FAISS • Qdrant
+
+**Cloud & DevOps**
+Docker • Kubernetes • AWS • GCP • HuggingFace
+
+---
+
+## 🚀 Selected Work
+
+* **RAIVA** — Voice-based RAG assistant
+* **Saamay AI** — Quran memorization with Whisper
+* **Multi-Agent Ecosystem** — autonomous AI workflows
+* **Quiz Generator** — LLM-powered evaluation system
+
+---
+
+## 📈 GitHub
+
+* 30+ AI/ML Projects
+* RAG • NLP • Computer Vision • MLOps
+
+---
+
+## 🌐 Links
+
+[GitHub](https://github.com/AliHShahid) •
+[LinkedIn](https://linkedin.com/in/alihassanshahid17) •
+[Kaggle](https://www.kaggle.com/alihassanshahid) •
+[Tableau](https://public.tableau.com/app/profile/alihassanshahid) •
+[LeetCode](https://leetcode.com/u/AliHassanShahid/)
+
+---
+
+> *Building AI that actually ships.*
