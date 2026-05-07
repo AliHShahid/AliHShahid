@@ -26,7 +26,7 @@ Python • JavaScript • Dart
 LLMs • LangChain • Transformers • PyTorch • TensorFlow
 
 **Backend & Apps**
-FastAPI • Django • Flask • Streamlit • Flutter
+FastAPI • Django • Flask • Streamlit • Flutter • Gradio
 
 **Data & DB**
 Pandas • NumPy • PostgreSQL • FAISS • Qdrant
