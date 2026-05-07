@@ -38,8 +38,8 @@ Docker • Kubernetes • AWS • GCP • HuggingFace
 
 ## 🚀 Selected Work
 
-* **RAIVA** — Voice-based RAG assistant
 * **Saamay AI** — Quran memorization with Whisper
+* **RAIVA** — Voice-based RAG assistant
 * **Multi-Agent Ecosystem** — autonomous AI workflows
 * **Quiz Generator** — LLM-powered evaluation system
 
