@@ -4,7 +4,7 @@
 
 ---
 
-Building **real-world AI systems** — from conversational agents to scalable ML pipelines.
+Building **production grade AI systems** — from conversational agents to scalable ML pipelines.
 
 ---
 
