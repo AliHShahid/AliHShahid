@@ -1,6 +1,6 @@
 # Ali Hassan Shahid
 
-### AI Engineer • LLMs • RAG • MLOps
+### AI Engineer • LLMs • Agentic AI • MLOps
 
 ---
 
@@ -12,43 +12,27 @@ Building **production grade AI systems** — from conversational agents to scala
 
 * Agentic AI & LLM Applications
 * Retrieval-Augmented Generation (RAG)
-* Speech AI (Whisper, Audio Processing)
-* MLOps & Production Systems
+* Speech AI
+* MLOps
 
 ---
 
 ## ⚙️ Stack
 
 **Languages**
-Python • JavaScript • Dart
+Python • Dart
 
 **AI/ML**
-LLMs • LangChain • Transformers • PyTorch • TensorFlow
+LangChain • Transformers • PyTorch • TensorFlow • LangGraph  • LangSmith  • PEFT  • OpenCV
 
 **Backend & Apps**
 FastAPI • Django • Flask • Streamlit • Flutter • Gradio
 
-**Data & DB**
-Pandas • NumPy • PostgreSQL • FAISS • Qdrant
+**Database**
+MYSQL • FAISS • Qdrant • Supabase
 
 **Cloud & DevOps**
-Docker • Kubernetes • AWS • GCP • HuggingFace
-
----
-
-## 🚀 Selected Work
-
-* **Saamay AI** — Quran memorization with Whisper
-* **RAIVA** — Voice-based RAG assistant
-* **Multi-Agent Ecosystem** — autonomous AI workflows
-* **Quiz Generator** — LLM-powered evaluation system
-
----
-
-## 📈 GitHub
-
-* 30+ AI/ML Projects
-* RAG • NLP • Computer Vision • MLOps
+Docker • Kubernetes • AWS • HuggingFace
 
 ---
 
