@@ -1,6 +1,6 @@
 # Ali Hassan Shahid
 
-### AI Engineer • LLMs • Agentic AI • MLOps• RAG
+### AI Engineer • LLM • Agentic AI • MLOps• RAG
 
 ---
 
